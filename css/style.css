@@ -1812,7 +1812,9 @@ a {
     #navbar1{
      text-align: center;
     }
-  
+  .text-center{
+	  padding-top:135px;
+  }
   }
   
        
