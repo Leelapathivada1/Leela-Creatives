@@ -1307,7 +1307,7 @@ textarea {
 
 
 @media (min-width: 1260px) {
-	.text-center{
+	#mb{
 		padding-top:135px
 }
 @media (min-width: 992px) {
