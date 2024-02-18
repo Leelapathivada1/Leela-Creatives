@@ -1894,4 +1894,16 @@ a {
       right: 25px;
       display: none;
   }
+
+
+.card00{
+    box-shadow: 0 0 10px #ccc;
+}
+.para1{
+    font-size: 13px;
+}
+.font20{
+    font-size: 12px;
+    font-weight: 400;
+}
   
